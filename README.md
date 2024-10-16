@@ -1,1 +1,12 @@
-# java-calculator-precourse
+## 프리코스 1주차 : 문자열 덧셈 계산기
+---
+### 1. 기능 요구사항 정리
+---
+* 문자열 input 입력
+* 입력받은 문자열에서 커스텀 구분자가 있으면 추출하는 extractCustomDelimiter() 메서드 구현
+* 커스텀 구분자를 인자로 입력받고 구분자를 제거한 문자열만 추출하는 extractString() 메서드 구현
+* 추출된 문자열을 인자로 받고 정수형으로 변환하는 stringToInteger() 메서드 구현
+* 정수형들의 합을 반환하는 sumInteger() 메서드 구현
+* 입력값 예외 처리에 대한 checkException() 메서드 구현
+* 덧셈된 정수합 출력
+
